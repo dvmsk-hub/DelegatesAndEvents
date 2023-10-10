@@ -1,0 +1,14 @@
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.exe
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.deps.json
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.runtimeconfig.json
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.dll
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.pdb
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfo.cs
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.dll
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\refint\DelegatesAndEvents.dll
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.pdb
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.genruntimeconfig.cache
+D:\projects\otus\C#.Professional\HomeWork6\DelegatesAndEvents\obj\Debug\net6.0\ref\DelegatesAndEvents.dll
